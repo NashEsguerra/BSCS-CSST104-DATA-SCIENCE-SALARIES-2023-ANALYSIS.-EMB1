@@ -467,31 +467,18 @@ predicts salary.
 predicted values) to check for patterns or biases in the model's predictions and 
 identify areas for improvement.
 
-![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB/assets/145514134/185d474b-25f9-4e01-950f-6ef699354da6)
-
-![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB/assets/145514134/63cafc85-7fd9-4c88-ae7c-b9984eb1d18d)
-
-![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB/assets/145514134/35d11257-d05c-44a4-8972-4b89d4cdd65f)
-
-![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB/assets/145514134/be715926-b74d-48bd-aea9-555014bf53e4)
-
-
-![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB/assets/145514134/f4cfb61f-d356-4af9-a19a-6a28102a3cc7)
-
-
-![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB/assets/145514134/d27267f8-263e-41b3-b8fe-6045a9a0df20)
+![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/a0ebe305-428d-4a69-a6ba-eb4d52a844a5)
+![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/e7bda298-4752-41f1-b718-92b38deb72b4)
+![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/fc74c7de-ebf7-4c7f-b53c-7773cc263ad8)
+![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/aac68273-88cf-4c73-84a9-6a7c7eda819f)
+![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/f42c006f-6e31-44ca-81e9-42e67b6e584d)
+![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/74a4e54c-b800-4e6e-a14f-79784a2beeda)
+![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/28c4a83e-925f-44ce-b9ac-25d36b4cc87f)
+![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/70bf3e10-982a-456c-a7e8-36e279ec4aa6)
+![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/1166885a-e5f3-441a-ac27-fba879aa67cd)
+![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/173f1355-f31c-409a-bcd1-fd4fd8b82593)
 
 
-![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB/assets/145514134/9cd3b7b5-f383-4e5c-b9fa-bc0e38161027)
-
-
-![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB/assets/145514134/088cdd1d-cd77-4f54-87f8-0851a153ce23)
-
-
-![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB/assets/145514134/032c3fcf-cb08-4441-bf30-029237a7d3ab)
-
-
-![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB/assets/145514134/6e402f1a-259e-42a6-8a86-8c6c1533f365)
 
 
 
@@ -502,36 +489,37 @@ has already been preprocessed:
 
 **1. Import Libraries**
 
-![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB/assets/145514134/ade1543c-cd2d-4dcb-b33c-2848ff9a5a75)
+![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/10ea0585-ebc5-4a31-af07-ce8833a29788)
 
 
 **2. Numerical Data**
 
-![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB/assets/145514134/4eb9d5c8-bf0b-4eda-81c7-05506fe90bd7)
+![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/0d8c391e-c54a-4ac0-b1a6-1735ae4eefbe)
+
 
 **3. Splitting the dataset into the training set and test set**
 
-![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB/assets/145514134/a0d6cdeb-f2ae-4c99-b335-50f53d928eaa)
+![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/d19031aa-8371-44de-9b74-17fe892a0962)
 
 
 **4. Initialize the Linear Regression Model**
 
-![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB/assets/145514134/00482451-5347-4433-91f6-cc1dea86c0ea)
+![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/fbda06cc-42c0-4f46-bd05-d3562d12e069)
 
 
 **5. Fit the model**
 
-!![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB/assets/145514134/e100716c-009d-4c34-9c32-f8f69980886a)
+![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/582db6d2-c289-4bb2-9716-28b0d6c47a8b)
 
 
 **6. Predict on the testing set**
 
-![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB/assets/145514134/c2b5ccdb-f699-46a3-86c5-0466633f5321)
+![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/981cadde-b9c0-4f28-9a49-938a0b2345e3)
 
 
 **7. Evaluate the model**
 
-![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB/assets/145514134/c2881ad6-1858-4d0f-86ac-ad2af13bc9a6)
+![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/a62cb7d6-8815-409c-9122-788b7d6cdd3b)
 
 
 
