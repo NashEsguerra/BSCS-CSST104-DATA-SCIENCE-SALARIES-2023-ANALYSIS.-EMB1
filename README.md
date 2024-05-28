@@ -467,7 +467,8 @@ predicts salary.
 predicted values) to check for patterns or biases in the model's predictions and 
 identify areas for improvement.
 
-![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/a0ebe305-428d-4a69-a6ba-eb4d52a844a5)
+![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/11b427a1-331e-48c6-87a8-cbc5180659ce)
+
 
 ![image](https://github.com/NashEsguerra/BSCS-CSST104-DATA-SCIENCE-SALARIES-2023-ANALYSIS.-EMB1/assets/145514134/e7bda298-4752-41f1-b718-92b38deb72b4)
 
